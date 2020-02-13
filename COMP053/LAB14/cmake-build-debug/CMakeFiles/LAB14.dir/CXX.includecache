@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andki/CLionProjects/COMP053/LAB14/city.h
+string
+-
+utility
+-
+
+C:/Users/Andki/CLionProjects/COMP053/LAB14/main.cpp
+iostream
+-
+set
+-
+utility
+-
+city.h
+C:/Users/Andki/CLionProjects/COMP053/LAB14/city.h
+
