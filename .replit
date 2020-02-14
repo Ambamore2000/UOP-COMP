@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ -o COMP053-LAB09 COMP053/LAB09/main.cpp"

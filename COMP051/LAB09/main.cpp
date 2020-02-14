@@ -1,5 +1,5 @@
 #include <iostream>
-#include <windows.h>
+//#include <windows.h>
 
 using namespace std;
 
@@ -39,7 +39,7 @@ void Coordinate::rotate() {
 }
 
 void Coordinate::display() {
-    SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), color);
+    //SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), color);
     string quadrant = "ERROR";
 
     if (x > 0 && y > 0)
@@ -55,7 +55,7 @@ void Coordinate::display() {
         cout << "(" << x << ", " << y << ")" << endl;
     else
         cout << "(" << x << ", " << y << ") is in quadrant " << quadrant << endl;
-    SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 7);
+    //SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 7);
 }
 
 int slope(int xOne, int xTwo, int yOne, int yTwo) {
