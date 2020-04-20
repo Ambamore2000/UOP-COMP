@@ -1,3 +1,0 @@
-C:/Users/Andki/CLionProjects/COMP051/COMP51_Andrew_Kim_Homework_Four/cmake-build-debug/CMakeFiles/COMP51_Andrew_Kim_Homework_Four.dir
-C:/Users/Andki/CLionProjects/COMP051/COMP51_Andrew_Kim_Homework_Four/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Andki/CLionProjects/COMP051/COMP51_Andrew_Kim_Homework_Four/cmake-build-debug/CMakeFiles/rebuild_cache.dir
